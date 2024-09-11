@@ -1,0 +1,10 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Documents/uni/docs/bachelor/2_SoSe_2024/IN0006_EinführungInDieSoftwaretechnik/exam_prep/,$HOME/Documents/uni/prog/2024Sommersemester/FPV/,$HOME/Documents/uni/docs/bachelor/2_SoSe_2024/MA0901_LineareAlgebraFürInformatik/Klausurvorbereitung/,$HOME/Downloads/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled
